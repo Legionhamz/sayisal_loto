@@ -1,1 +1,0 @@
-# sayisal_loto
